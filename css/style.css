@@ -103,7 +103,7 @@ tr:nth-child(odd){
 }
 /*Req 6f*/
 tr:hover{
-  background-color: rgba(178, 31, 80, 0.25);
+  background-color: rgb(126, 8, 32, 0.25);
 }
 
 
